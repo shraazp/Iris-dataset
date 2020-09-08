@@ -6,5 +6,5 @@ Information about the original paper and usages of the dataset can be found in t
 
 Just for reference, here are pictures of the three flowers species:
 
-![Iris flowers](/images/iris.png)
-Format: ![Alt Text](url)
+![iris flowers](/iris.jpg)
+
